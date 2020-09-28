@@ -1,4 +1,4 @@
-odule "vpc" {
+module "vpc" {
   source = "../../modules/vpc"
 
   name = "development-vpc"
